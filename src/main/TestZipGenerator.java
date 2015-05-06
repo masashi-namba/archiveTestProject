@@ -29,7 +29,7 @@ public class TestZipGenerator {
 		fileList.add("F:\\develop\\workspaces\\archive\\archiveTestProject\\textDirectory\\wagahai4.txt");
 		fileList.add("F:\\develop\\workspaces\\archive\\archiveTestProject\\textDirectory\\wagahai5.txt");
 		fileList.add("F:\\develop\\workspaces\\archive\\archiveTestProject\\textDirectory\\wagahai6.txt");
-		fileList.add("F:\\develop\\workspaces\\archive\\archiveTestProject\\textDirectory\\wagahai7.txt");
+//		fileList.add("F:\\develop\\workspaces\\archive\\archiveTestProject\\textDirectory\\wagahai7.txt");
 
 
 
